@@ -23,7 +23,7 @@ You will learn the skills you need to complete this project in these courses:
 * <a href="https://www.udacity.com/course/gradle-for-android-and-java--ud867-nd" target="_blank">Gradle for Android and Java: Build Better Apps Through Automation</a>
 
 ## Required Tasks
-1. Successfully complete <a href="https://www.udacity.com/course/viewer#!/c-nd801/l-4041218607/m-4280888865" target="_blank">Stage 1</a>.
+1. Successfully complete Stage 1.
 2. Build your app using your Stage 1 document as a guide.
 3. Submit your app source code through the Nanodegree project portal.
 
