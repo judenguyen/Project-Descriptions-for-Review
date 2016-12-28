@@ -2,7 +2,6 @@
 
 In Stage 1, you designed and planned your Capstone app. Now, it's time to build it!  
 
-**Nanodegree students must successfully complete the <a href="https://www.udacity.com/course/viewer#!/c-nd801/l-4041218607/m-4280888865" target="_blank">Capstone, Stage 1</a> project prior to beginning Stage 2.** 
 
 ## Why this Project?
 
