@@ -17,10 +17,10 @@ The Capstone project will give you the experience you need to own the full devel
 
 You will learn the skills you need to complete this project in these courses:
 
-* <a href="https://www.udacity.com/course/developing-android-apps-fundamentals--ud853-nd" target="_blank">Developing Android Apps: Android Fundamentals</a>
-* <a href="https://www.udacity.com/course/advanced-android-app-development--ud855-nd" target="_blank">Advanced Android App Development: Productionize and Publish Your App</a>
-* <a href="https://www.udacity.com/course/google-play-services--ud876-nd" target="_blank">Google Play Services: Use Google APIs to Improve Your Apps</a>
-* <a href="https://www.udacity.com/course/gradle-for-android-and-java--ud867-nd" target="_blank">Gradle for Android and Java: Build Better Apps Through Automation</a>
+* Developing Android Apps: Android Fundamentals
+* Advanced Android App Development: Productionize and Publish Your App
+* Google Play Services: Use Google APIs to Improve Your Apps
+* Gradle for Android and Java: Build Better Apps Through Automation
 
 ## Required Tasks
 1. Successfully complete Stage 1.
